@@ -1,4 +1,5 @@
 # Finance-Tracker
+
 **NAME** : MADANALA SINDHUJA
 
 **COMPANY** : CODTECH IT SOLUTIONS PRIVATE LIMITED
@@ -8,5 +9,8 @@
 **DOMAIN** : FRONTEND WEB DEVELOPMENT 
 
 **INTERNSHIP PERIOD** : 17 MAY 2026 - 28 JUNE 2026 (6 WEEKS)
----------------------------------------------------------------------------**Overview of the project**------------------------------------------------------------------------------------------------------------------------------
-<p align="center"> <a href="https://sindhumadanala.github.io/Finance-Tracker/">**➡️ LIVE DEMO**</a> </p>
+
+<h1 align="center">Overview of the project</h1>
+
+<h2 align="center"> <a href="https://sindhumadanala.github.io/Finance-Tracker/">➡️ LIVE DEMO</a> </h2>
+
